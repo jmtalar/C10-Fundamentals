@@ -1,0 +1,17 @@
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.exe
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.deps.json
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.runtimeconfig.json
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.dll
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.pdb
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.dll
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\refint\BethanysPieShopHRM.dll
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.pdb
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.genruntimeconfig.cache
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\ref\BethanysPieShopHRM.dll
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\karrj\source\repos\BethanysPieShopHRM\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.csproj.CopyComplete
